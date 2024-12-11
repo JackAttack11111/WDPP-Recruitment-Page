@@ -1,3 +1,3 @@
 $(document).ready(function () {
-    //Add Jquery code here
+  //Add Jquery code here
 });
